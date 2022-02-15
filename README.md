@@ -1,4 +1,4 @@
-# CS61A 21' Spring Version
+# CS61A Spring 21' Version
 
 https://inst.eecs.berkeley.edu/~cs61a/sp21/
 
