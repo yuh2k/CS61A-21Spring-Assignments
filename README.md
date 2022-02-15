@@ -2,7 +2,7 @@
 
 https://inst.eecs.berkeley.edu/~cs61a/sp21/
 
-CS beginner, due to the limitaion of my programming level, I did not put my solution to some tough problems.
+CS beginner
 
 
 Personal solutions to the labs, homeworks and projects of CS 61A.
